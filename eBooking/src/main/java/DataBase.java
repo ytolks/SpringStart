@@ -1,4 +1,4 @@
 public interface DataBase {
 
-    void execute();
+    void save();
 }
