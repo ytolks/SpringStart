@@ -5,5 +5,6 @@ public class BookingApplication {
         System.out.println("My second step");
         System.out.println("My third step");
 
+        System.out.println("My third step");
     }
 }
