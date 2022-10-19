@@ -11,6 +11,8 @@ public class DemoApplication {
 		System.out.println("My first spring application");
 		System.out.println("Cool start");
 		System.out.println("Cool start for sure");
+		System.out.println("Cool start indeed");
+		System.out.println("Cool start the journey");
 
 	}
 
